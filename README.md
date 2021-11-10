@@ -23,7 +23,6 @@ of eight states with following keys:
 	
 	
 ### Acknowledgements
-
 This work was supported by the NSF under grants IIS-1453543, IIS1943971, and
 CCF-1763423, and a [Microsoft Research Dissertation
 Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/).
