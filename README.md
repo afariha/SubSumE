@@ -2,7 +2,9 @@
 
 This repository contains the SubSumE dataset for subjective document summarization.  See [the paper](https://aclanthology.org/2021.newsum-1.14/) for details on dataset creation.
 
-## Dataset Files:
+## Dataset Files
+Download the dataset from [here](https://drive.google.com/file/d/1tEDDHzZM_idnv-_PfRE5BmJU5E8yKLRH/view)
+
 The dataset contains :
 * Simplified text from Wikipedia pages of the states in US. Additionally, all the sentences in these documents
 are put together in a single file `processed_state_sentences.csv` and are assigned a unique sentence id that 
