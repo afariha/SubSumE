@@ -1,6 +1,6 @@
 # SubSumE Dataset
 
-This repository contains the SubSumE dataset for subjective document summarization. See [the paper](https://aclanthology.org/2021.newsum-1.14/) and the [talk](https://www.youtube.com/watch?v=0vyUQArRrvY) for details on dataset creation. Also check out our work (SuDocu)(http://sudocu.cs.umass.edu/) on example-based document summarization.
+This repository contains the SubSumE dataset for subjective document summarization. See [the paper](https://aclanthology.org/2021.newsum-1.14/) and the [talk](https://www.youtube.com/watch?v=0vyUQArRrvY) for details on dataset creation. Also check out our work [SuDocu](http://sudocu.cs.umass.edu/) on example-based document summarization.
 
 ## Dataset Files
 Download the dataset from [here](https://drive.google.com/file/d/1tEDDHzZM_idnv-_PfRE5BmJU5E8yKLRH/view).
