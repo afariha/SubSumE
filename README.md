@@ -10,7 +10,7 @@ is used in summary json files.
 * Intent-based summaries created human annotators.
 
  
-Each datapoint file in [user_summary_jsons]() folder contains a json containing summaries of Wikipedia pages
+Each datapoint file in the directory `user_summary_jsons` contains a json containing summaries of Wikipedia pages
 of eight states with following keys:
 * **intent** : Summarization intent provided to human annotators for generating the summary
 * **summaries**: List of summary jsons for eight states assigned to the annotator. Each json in 
