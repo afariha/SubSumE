@@ -20,3 +20,10 @@ of eight states with following keys:
     * **sentence_ids**: Global ids of sentences (wrt `processed_state_sentences.csv`) present in the summary
     * **sentences**: List of sentences present in the summary
     * **use_keywords**: Keywords used by the annotator to search the document when creating summaries
+	
+	
+### Acknowledgements
+
+This work was supported by the NSF under grants IIS-1453543, IIS1943971, and
+CCF-1763423, and a [Microsoft Research Dissertation
+Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/).
